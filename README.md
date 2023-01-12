@@ -10,6 +10,6 @@ sudo docker build . -t neovim
 
 # Run the image
 ```
-sudo docker run -it --rm nvim
+sudo docker run -it --rm neovim
 ```
 
